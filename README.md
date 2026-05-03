@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Rayane 👋
 
-<!--
-**Rabbbba/Rabbbba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I write software and tinker with Linux desktops.
 
-Here are some ideas to get you started:
+  #### Stack I currently care about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **NixOS** + flakes for everything that boots
+  - **Wayland** with Hyprland
+  - **QML / Qt 6** — building UI primitives from scratch
+  - **Neovim** as my editor
+
+  #### Pinned project
+
+  [**nixos-config**](https://github.com/Rabbbba/nixos-config) — my NixOS desktop, with a custom Quickshell QML status bar I wrote from scratch (workspace pills, MPRIS
+  popup with live cava equalizer, hover tooltips, matugen-driven theme regenerated from the wallpaper).
+
+  If you're scanning this for engineering signal, the [Notable patterns](https://github.com/Rabbbba/nixos-config#notable-patterns) section of that README is the
+  fastest way in.
